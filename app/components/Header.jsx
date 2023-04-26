@@ -39,7 +39,7 @@ const Header = () => {
             <HiShoppingCart
               onClick={setOpenModal}
               size={28}
-              className="hover:scale-110 transition group-hover:text-slate-700 font-extrabold cursor-pointer"
+              className="hover:scale-110 transition group-hover:text-slate-700 text-gray-900 font-extrabold cursor-pointer"
             />
           </div>
         </div>
